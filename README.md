@@ -5,8 +5,21 @@
 
 
 
+![image](https://github.com/Rexoes/AGV_Telemetry/assets/93407264/09c9a181-1f77-40c8-b3ac-06e207780e90)
+
+
+
 # ESP32 LoRa PCB (Fixaj)
 
 
 
 ![3in1-esp32-hazir-lehimli-pcb-e22-ve-e32-lora-modulleri-ile-uyumlu-13](https://github.com/Rexoes/AGV_Telemetry/assets/93407264/7684b462-8ddb-462c-9616-168c7d15a893)
+
+
+
+# nRF24L01 PA LNA
+![Pinout](https://github.com/Rexoes/AGV_Telemetry/assets/93407264/d0d50c65-e98a-4eaa-8bf9-fabda97d960d)
+
+
+
+RF24 Class Reference: https://nrf24.github.io/RF24/classRF24.html
