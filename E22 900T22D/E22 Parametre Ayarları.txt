@@ -1,0 +1,38 @@
+Verici Kart (ESP32 Dev Module)
+
+Addres: 1
+Channel: 18
+NET ID: 0
+Key: 0
+Baud Rate: 9600
+Parity: 8N1
+Air Rate: 2.4Kbps
+Packet Size: 240B
+WOR Role: Translate
+Wor Cycle: 2000ms
+Power: 22dBm
+Tran Mode: Fixed
+Relay: Disable
+LBT: Disable
+Packet RSSI: Disable
+Channel RSSI: Disable
+
+
+Alıcı Kart (ESP32 U)
+
+Addres: 2
+Channel: 18
+NET ID: 0
+Key: 0
+Baud Rate: 9600
+Parity: 8N1
+Air Rate: 2.4Kbps
+Packet Size: 240B
+WOR Role: Translate
+Wor Cycle: 2000ms
+Power: 22dBm
+Tran Mode: Fixed
+Relay: Disable
+LBT: Disable
+Packet RSSI: Disable
+Channel RSSI: Disable
