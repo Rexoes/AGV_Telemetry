@@ -15,6 +15,8 @@
 
 ![3in1-esp32-hazir-lehimli-pcb-e22-ve-e32-lora-modulleri-ile-uyumlu-13](https://github.com/Rexoes/AGV_Telemetry/assets/93407264/7684b462-8ddb-462c-9616-168c7d15a893)
 
+# nRF24L01 PA LNA RC Controller
+![View-1](https://github.com/Rexoes/AGV_Telemetry/assets/93407264/78e4272a-20e2-47c2-8e48-23b69d97995a)
 
 
 # nRF24L01 PA LNA
