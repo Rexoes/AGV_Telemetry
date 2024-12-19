@@ -1,0 +1,19 @@
+E22 MASTER Parameters (Tik);
+
+Adress: 1
+Channel: 58
+NET ID: 0
+Key: 0
+WOR Role: Translate
+Tran Mode: Fixed
+LBT: Enable
+
+E22 SLAVE Parameters (Artı);
+
+Adress: 2
+Channel: 58
+NET ID: 0
+Key: 0
+WOR Role: Translate
+Tran Mode: Fixed
+LBT: Enable

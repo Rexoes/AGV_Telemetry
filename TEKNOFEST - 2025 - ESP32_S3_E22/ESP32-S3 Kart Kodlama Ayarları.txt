@@ -1,0 +1,4 @@
+USB CDC On Boot: Enable
+USB DFU On Boot: Disable
+Upload Mode: USB-OTG CDC (TinyUSB)
+USB Mode: Hardware CDC and JTAG
